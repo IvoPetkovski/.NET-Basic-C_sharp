@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.NET\\Homeworks\\.NET-Basic-C_sharp\\Homework_01\\Homework01\\Homework01\\Homework01.csproj",
+      "projectUniqueName": "C:\\.NET\\Homeworks\\.NET-Basic-C_sharp\\Homework01\\Homework01\\Homework01.csproj",
       "projectName": "Homework01",
-      "projectPath": "C:\\.NET\\Homeworks\\.NET-Basic-C_sharp\\Homework_01\\Homework01\\Homework01\\Homework01.csproj",
+      "projectPath": "C:\\.NET\\Homeworks\\.NET-Basic-C_sharp\\Homework01\\Homework01\\Homework01.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\.NET\\Homeworks\\.NET-Basic-C_sharp\\Homework_01\\Homework01\\Homework01\\obj\\",
+      "outputPath": "C:\\.NET\\Homeworks\\.NET-Basic-C_sharp\\Homework01\\Homework01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",

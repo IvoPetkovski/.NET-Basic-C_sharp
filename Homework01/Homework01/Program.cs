@@ -15,6 +15,7 @@ namespace Homework01
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("GO!");
+            Console.ResetColor();
             Console.ReadLine();
         }
     }
