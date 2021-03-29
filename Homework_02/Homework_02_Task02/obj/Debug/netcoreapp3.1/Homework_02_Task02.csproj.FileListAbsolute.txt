@@ -1,0 +1,12 @@
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\bin\Debug\netcoreapp3.1\Homework_02_Task02.exe
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\bin\Debug\netcoreapp3.1\Homework_02_Task02.deps.json
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\bin\Debug\netcoreapp3.1\Homework_02_Task02.runtimeconfig.json
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\bin\Debug\netcoreapp3.1\Homework_02_Task02.runtimeconfig.dev.json
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\bin\Debug\netcoreapp3.1\Homework_02_Task02.dll
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\bin\Debug\netcoreapp3.1\Homework_02_Task02.pdb
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\obj\Debug\netcoreapp3.1\Homework_02_Task02.AssemblyInfoInputs.cache
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\obj\Debug\netcoreapp3.1\Homework_02_Task02.AssemblyInfo.cs
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\obj\Debug\netcoreapp3.1\Homework_02_Task02.csproj.CoreCompileInputs.cache
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\obj\Debug\netcoreapp3.1\Homework_02_Task02.dll
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\obj\Debug\netcoreapp3.1\Homework_02_Task02.pdb
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework_02\Homework_02_Task02\obj\Debug\netcoreapp3.1\Homework_02_Task02.genruntimeconfig.cache
