@@ -1,0 +1,13 @@
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\obj\Debug\netcoreapp3.1\Task01.csprojAssemblyReference.cache
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfoInputs.cache
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfo.cs
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\obj\Debug\netcoreapp3.1\Task01.csproj.CoreCompileInputs.cache
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\bin\Debug\netcoreapp3.1\Task01.exe
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\bin\Debug\netcoreapp3.1\Task01.deps.json
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.json
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.dev.json
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\bin\Debug\netcoreapp3.1\Task01.dll
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\bin\Debug\netcoreapp3.1\Task01.pdb
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\obj\Debug\netcoreapp3.1\Task01.dll
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\obj\Debug\netcoreapp3.1\Task01.pdb
+C:\.NET\Homeworks\.NET-Basic-C_sharp\Homework05\Task01\obj\Debug\netcoreapp3.1\Task01.genruntimeconfig.cache
